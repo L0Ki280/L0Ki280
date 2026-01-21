@@ -5,7 +5,6 @@
 <h2 align="center">Sobre mí</h2>
 
 - 🇨🇱 De la Región del Maule, Chile  
-- 🛠️ Scripter en **Roblox Studio** (Lua)  
 - 🌱 Aprendiendo **Python**, **Java**, HTML/CSS/JS y más  
 - 🎯 Meta 2026: Construir portfolio brutal y entrar fuerte en tech  
 - 📫 Contáctame: X [@c_sv_p](https://x.com/c_sv_p)  
@@ -22,8 +21,6 @@
 </div>
 
 <h2 align="center">Proyectos (próximamente pinned)</h2>
-
-- Roblox scripts y games  
 - Mini proyectos Python (calculadoras, bots, etc.)  
 - ¡Pronto más! 🔥
 
